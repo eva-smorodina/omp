@@ -1,4 +1,4 @@
-# omp
+# Structural bioinformatics studies of bacterial outer membrane beta-barrel transporters and their AlphaFold2 predicted water-soluble QTY variants
 
 Beta-barrel outer membrane proteins (OMP) are integral components of Gram-negative
 bacteria and eukaryotic mitochondria, and chloroplasts. They play essential roles in various
